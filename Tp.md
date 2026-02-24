@@ -58,3 +58,6 @@
 ## Conclusion Analytique
 
 Le **Portefeuille A** offre une performance régulière et prévisible avec un ratio rendement/risque nettement supérieur (7.17 vs 2.65). Le **Portefeuille B** génère un rendement annualisé de 40.79% mais avec une volatilité annualisée de 15.41%, soit **9 fois plus risqué** que le Portefeuille A.
+
+![Uploading question_1_2_distributions.png…]()
+
